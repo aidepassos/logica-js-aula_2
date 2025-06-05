@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 O que aprendi:
-> Exibir mensagens na tela de forma interativa
-> Utilizar variáveis no desenvolvimento de software
-> Ingressar no mundo de desenvolvimento seguindo boas práticas de programação
-> Desenvolver uma aplicação do início ao fim, inspirada no mundo real
-> Adaptar soluções desenvolvidas pela linguagem em seus programas de software
+- Exibir mensagens na tela de forma interativa
+- Utilizar variáveis no desenvolvimento de software
+- Ingressar no mundo de desenvolvimento seguindo boas práticas de programação
+- Desenvolver uma aplicação do início ao fim, inspirada no mundo real
+- Adaptar soluções desenvolvidas pela linguagem em seus programas de software
